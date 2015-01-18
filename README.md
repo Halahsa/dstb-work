@@ -7,3 +7,6 @@ Repo for DSTB course
 * Item 3
 
 ### Add another heading via RStudio
+
+Trying to add some stuff via GitHub web interface
+And then pull it to local repor
